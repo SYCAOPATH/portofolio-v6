@@ -10,7 +10,7 @@ export default {
           imageUrl: 'home-profile',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
-          demo: 'https://yulkautsar.vercel.app/',
+          demo: 'https://symphonious-strudel-708f8f.netlify.app/',
           github: 'https://github.com/SYCAOPATH/portofolio-v2',
           icon: 'M12 19l9 2-9-18-9 18 9-2zm0 0v-8' 
         },
