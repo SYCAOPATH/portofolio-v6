@@ -23,7 +23,7 @@
 
 ## 🚀 Live Demo
 
-Visit the live portfolio at: [yulkautsar.vercel.app](https://yulkautsar.vercel.app/)
+Visit the live portfolio at:
 
 ## 🛠️ Technologies Used
 
