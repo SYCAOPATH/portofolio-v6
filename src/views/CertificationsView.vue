@@ -3,7 +3,7 @@
     <article data-page="about">
       <header>
         <div class="text-2xl font-bold text-white mb-10 fadein-bot title-section flex items-center justify-center flex-col">
-          <h4>Certifications & Skills</h4>
+          <h4>Certifications</h4>
           <h4 class="text-base font-normal text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-[#AE08FF]">
             My Certifications and Learning RoadMap.
           </h4>
