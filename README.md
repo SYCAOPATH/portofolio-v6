@@ -23,7 +23,7 @@
 
 ## 🚀 Live Demo
 
-Visit the live portfolio at:
+Visit the live portfolio at: https://symphonious-strudel-708f8f.netlify.app/
 
 ## 🛠️ Technologies Used
 
